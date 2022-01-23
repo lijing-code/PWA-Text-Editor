@@ -31,14 +31,15 @@
   * You can now access the Note Taker Application
 
   ## Usage
+<img width="700" alt="Screen Shot 2022-01-22 at 9 35 49 PM" src="https://user-images.githubusercontent.com/68092036/150662550-9ac7c7cf-6cfd-415d-b419-5e75d8e807e2.png">
 
-
-    * Heroku Deploy:
+ -- Heroku Deploy:
     
     https://fierce-temple-00505.herokuapp.com/
 
-    * Click this button to install in your local desktop
-  
+ -- Click this button to install in your local desktop![WechatIMG4](https://user-images.githubusercontent.com/68092036/150662716-ffa03ef7-cc23-431d-b156-c35503237f8c.jpeg)
+![WechatIMG7](https://user-images.githubusercontent.com/68092036/150662563-d5d6f5e0-7b91-49d2-ad10-69bdbcfa8842.jpeg)
+
   ---
   ## License
   This project is using MIT license:
