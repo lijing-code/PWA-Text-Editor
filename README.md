@@ -37,7 +37,11 @@
     
     https://enigmatic-hollows-74305.herokuapp.com/
 
- -- Click this button to install in your local desktop![WechatIMG4](https://user-images.githubusercontent.com/68092036/150662716-ffa03ef7-cc23-431d-b156-c35503237f8c.jpeg)
+ -- Click this button to install in your local desktop
+ <img width="54" alt="Screen Shot 2022-01-22 at 10 34 54 PM" src="https://user-images.githubusercontent.com/68092036/150663799-9eada8d8-516c-4dc1-8870-2dd99afd31f1.png"><img width="95" alt="Screen Shot 2022-01-22 at 10 35 00 PM" src="https://user-images.githubusercontent.com/68092036/150663802-25c32f06-c060-4586-8d55-5fa973ed31fb.png">
+<img width="449" alt="Screen Shot 2022-01-22 at 10 34 47 PM" src="https://user-images.githubusercontent.com/68092036/150663805-134e01ad-1720-457c-8e09-7e17d4788207.png">
+
+
 ![WechatIMG7](https://user-images.githubusercontent.com/68092036/150662563-d5d6f5e0-7b91-49d2-ad10-69bdbcfa8842.jpeg)
 
   ---
