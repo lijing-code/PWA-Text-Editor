@@ -11,7 +11,10 @@ module.exports = () => {
     mode: 'development',
     entry: {
       main: './src/js/index.js',
-      install: './src/js/install.js'
+      install: './src/js/install.js',
+      database: './src/js/database.js',
+      editor: './src/js/editor.js',
+      header: './src/js/header.js',
     },
     output: {
       filename: '[name].bundle.js',
@@ -39,8 +42,8 @@ module.exports = () => {
         description: 'Takes notes with JavaScript syntax highlighting!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
-        orientation: 'portrait',
-        display:'standalone',
+        // orientation: 'portrait',
+        // display:'standalone',
         start_url: '/',
         publicPath: '/',
         icons: [
